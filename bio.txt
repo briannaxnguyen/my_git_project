@@ -1,1 +1,2 @@
-"Hello, I am learning Git and GitHub!" 
+"Hello, I am learning Git and GitHub!"
+This is me adding a "contact" section to your bio
