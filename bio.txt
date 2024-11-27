@@ -1,2 +1,5 @@
 "Hello, I am learning Git and GitHub!"
 This is me adding a "contact" section to your bio
+Contact:
+Email: Example@Example.com
+Phone: 111-222-3334
